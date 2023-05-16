@@ -1,0 +1,11 @@
+2023-05-13 13:43:58.018 UTC [3046] LOG:  starting PostgreSQL 12.9 on x86_64-conda-linux-gnu, compiled by x86_64-conda-linux-gnu-cc (Anaconda gcc) 11.2.0, 64-bit
+2023-05-13 13:43:58.018 UTC [3046] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2023-05-13 13:43:58.018 UTC [3046] LOG:  could not bind IPv6 address "::1": Cannot assign requested address
+2023-05-13 13:43:58.018 UTC [3046] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2023-05-13 13:43:58.021 UTC [3046] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2023-05-13 13:43:58.039 UTC [3047] LOG:  database system was interrupted; last known up at 2023-05-13 13:35:39 UTC
+2023-05-13 13:43:58.090 UTC [3047] LOG:  database system was not properly shut down; automatic recovery in progress
+2023-05-13 13:43:58.094 UTC [3047] LOG:  redo starts at 0/15CE7A0
+2023-05-13 13:43:58.094 UTC [3047] LOG:  invalid record length at 0/15CE7D8: wanted 24, got 0
+2023-05-13 13:43:58.094 UTC [3047] LOG:  redo done at 0/15CE7A0
+2023-05-13 13:43:58.120 UTC [3046] LOG:  database system is ready to accept connections

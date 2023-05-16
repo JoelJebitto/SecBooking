@@ -1,0 +1,6 @@
+pg user:
+    joel = 12345
+pg database:
+    django_db
+
+jebitto = 12345
